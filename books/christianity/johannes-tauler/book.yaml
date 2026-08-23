@@ -1,8 +1,8 @@
-title: "요한 타울러 해설 — 제1장"
+title: "요한 타울러 해설"
 category: "기독교"
 collection: "기독교 신비주의"
 series: "요한 타울러"
-description: "요한 타울러 설교 해설 제1장. 원문 Markdown을 수정하지 않고 웹북으로 제공합니다."
+description: "요한 타울러 설교 해설. 원문 Markdown을 수정하지 않고 웹북으로 제공합니다."
 language: "ko"
 status: "ongoing"
 
@@ -28,3 +28,6 @@ chapters:
   - id: "1.8"
     title: "1.8 자기 자신에 대하여 죽는 세 단계"
     file: "chapters/1.8_자기_자신에_대하여_죽는_세_단계.md"
+  - id: "2.1"
+    title: "2.1 외적 인간과 내적 인간"
+    file: "chapters/2.1_외적_인간과_내적_인간.md"
