@@ -1,0 +1,18 @@
+title: "요한 타울러 해설 — 제1장"
+category: "기독교"
+collection: "기독교 신비주의"
+series: "요한 타울러"
+description: "요한 타울러 설교 해설 제1장. 원문 Markdown을 수정하지 않고 웹북으로 제공합니다."
+language: "ko"
+status: "ongoing"
+
+chapters:
+  - id: "1.1"
+    title: "1.1 Sermon II — Second Sunday in Advent · 하느님 나라의 가까움"
+    file: "chapters/1.1_Sermon_II_Second_Sunday_in_Advent_하느님_나라의_가까움.md"
+  - id: "1.2"
+    title: "1.2 Sermon III — Third Sunday in Advent · 자기 자신에게서 나와 광야로 들어가기"
+    file: "chapters/1.2_Sermon_III_Third_Sunday_in_Advent_자기_자신에게서_나와_광야로_들어가기.md"
+  - id: "1.3"
+    title: "1.3 Sermon VI — Second Sermon for Epiphany · 하느님께서 일하실 수 있는 좋은 바탕"
+    file: "chapters/1.3_Sermon_VI_Second_Sermon_for_Epiphany_하느님께서_일하실_수_있는_좋은_바탕.md"
