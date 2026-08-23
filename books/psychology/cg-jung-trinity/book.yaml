@@ -1,0 +1,12 @@
+title: "C. G. Jung — A Psychological Approach to the Dogma of the Trinity"
+category: "심리학"
+collection: "융과 기독교 상징"
+series: "삼위일체의 심리학적 접근"
+description: "C. G. Jung의 『A Psychological Approach to the Dogma of the Trinity』 해설을 원문 Markdown 그대로 제공합니다."
+language: "ko"
+status: "ongoing"
+
+chapters:
+  - id: "2.6"
+    title: "2.6 신경(Symbola)의 형성: 삼위일체 구원극에서 교리 공식으로"
+    file: "chapters/2.6_신경_Symbola의_형성_삼위일체_구원극에서_교리_공식으로.md"
