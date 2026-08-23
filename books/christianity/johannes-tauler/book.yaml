@@ -40,3 +40,6 @@ chapters:
   - id: "2.8"
     title: "2.8 합일 — Union"
     file: "chapters/2.8_합일_Union.md"
+  - id: "3.1"
+    title: "3.1 참된 겸손"
+    file: "chapters/3.1_참된_겸손.md"
